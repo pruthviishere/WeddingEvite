@@ -1,6 +1,6 @@
 
 <p align="center"><a href="https://www.sarthakj.me/WeddingEvite/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 14th Feb, 2021 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
+<h1 align="center"><a href="https://saharshisha.netlify.app/assets/SI.pdf">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: 8th Jun,2025 <br> <a href="https://saharshisha.netlify.app/">Website</a></h1>
 
 
 

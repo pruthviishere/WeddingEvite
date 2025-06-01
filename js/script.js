@@ -92,7 +92,7 @@ var styles2 = [
     , 'font-size: 32px'
 ].join(';');
 
-console.log('\n\n%c SAVE THE DATE: 14th Feb, 2021', styles);
+console.log('\n\n%c SAVE THE DATE: 8th Jun,2025', styles);
 
 console.log('%cYour presence is requested!%c\n\nRegards: Sarthak Jain', styles1, styles2);
 
@@ -100,3 +100,8 @@ console.log(
     `%c शादी में जलूल जलूल आना होगा \n\n`,
     'color: yellow; background:tomato; font-size: 24pt; font-weight: bold',
 )
+
+// Disable right-click on the entire document (easily bypassed, use with caution)
+document.addEventListener('contextmenu', function (e) {
+  e.preventDefault();
+});
